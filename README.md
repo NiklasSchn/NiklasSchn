@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-my name is Niklas and I am an electrical engineering student from Germany, who has put his focus on software development. Currently I am passionate about frontend development.
+My name is Niklas and I am an electrical engineering student from Germany, who has put his focus on software development. Currently I am passionate about frontend development.
 My current skill level is still at beginner but I am learning every day.
 
 
