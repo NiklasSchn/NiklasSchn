@@ -1,19 +1,19 @@
-### Hi there 👋
+## Hi there 👋
 
 My name is Niklas and I am an electrical engineering student from Germany, who has put his focus on software development. Currently I am passionate about frontend development.
 My current skill level is still at beginner but I am learning every day.
 
 
-### Interests
+## Interests
 
 I am hooked to the frontend development.
 At the moment I am learning Javascript and React.
 For this reason i have also completed a HTML and CSS course.
 
 
-### Work
+## Work
 
-## Imxwallet
+### Imxwallet
 
 Currently i am contributing in an open source project for Immutable X. 
 This is a layer-2 scaling solution for NFTs on Ethereum. My task in this project is, 
@@ -25,7 +25,7 @@ In this Project I am working with React and Typescript.
 
 
 
-## LED_Wall
+### LED_Wall
 My fellow students and I are currently working on a development project for grad school.
 
 In this project, an LED-Wall is to be controlled with the help of a Raspberry Pi and a camera.
